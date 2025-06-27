@@ -59,8 +59,8 @@ export default function HomeScreen() {
           </TouchableOpacity>
          </View>
 
-        <ScrollView style = {styles.whiteboxscroll}>
-          <View style={styles.whitetbox}>
+        
+        <View style={styles.whitetbox}>
             <View style = {styles.categoryContainer}>
 
               <TouchableOpacity style = {styles.categoryItem} onPress={hitMeal}>
@@ -128,8 +128,8 @@ export default function HomeScreen() {
               <Text style={styles.textInWhitebox}> KFC</Text>
             </ScrollView>
   
-          </View>
-        </ScrollView>
+        </View>
+        
 
       </View>
 
