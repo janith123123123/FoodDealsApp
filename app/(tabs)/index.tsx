@@ -4,7 +4,7 @@ import * as Font from 'expo-font';
 import * as SplashScreen from 'expo-splash-screen';
 import React, { useCallback, useEffect, useState } from 'react';
 import { View } from 'react-native';
-import SearchScreen from './search';
+import HomeScreen from './Home';
 
 SplashScreen.preventAutoHideAsync();
 
@@ -40,7 +40,7 @@ export default function App() {
 
   return (
     <View style={{ flex: 1}} onLayout={onLayoutRootView}>
-      <SearchScreen />
+      <HomeScreen/>
     </View>
   );
    
