@@ -1,0 +1,106 @@
+{
+  "deals": [
+    {
+      "id": 1,
+      "name": "Burger King - Whopper",
+      "price": "Rs. 850"
+      
+    },
+    {
+      "id": 2,
+      "name": "Pizza Hut - Cheese Lovers",
+      "price": "Rs. 1200"
+      
+    },
+    {
+      "id": 3,
+      "name": "KFC - Chicken Bucket",
+      "price": "Rs. 1500"
+    },
+    {
+      "id": 4,
+      "name": "McDonald's - Big Mac",
+      "price": "Rs. 950"
+    },
+    {
+      "id": 5,
+      "name": "Domino's - Veggie Paradise",
+      "price": "Rs. 1100"
+    },
+    {
+      "id": 6,
+      "name": "Taco Bell - Crunchy Taco",
+      "price": "Rs. 600"
+    },
+    {
+      "id": 7,
+      "name": "Subway - Chicken Teriyaki",
+      "price": "Rs. 750"
+    },
+    {
+      "id": 8,
+      "name": "Pizza Hut - Pepperoni",
+      "price": "Rs. 1250"
+    },
+    {
+      "id": 9,
+      "name": "KFC - Zinger Burger",
+      "price": "Rs. 790"
+    },
+    {
+      "id": 10,
+      "name": "McDonald's - Chicken Nuggets",
+      "price": "Rs. 500"
+    },
+    {
+      "id": 11,
+      "name": "Domino's - Farmhouse Pizza",
+      "price": "Rs. 1300"
+    },
+    {
+      "id": 12,
+      "name": "Taco Bell - Burrito Supreme",
+      "price": "Rs. 980"
+    },
+    {
+      "id": 13,
+      "name": "Subway - Veggie Delight",
+      "price": "Rs. 690"
+    },
+    {
+      "id": 14,
+      "name": "Pizza Hut - Margherita",
+      "price": "Rs. 950"
+    },
+    {
+      "id": 15,
+      "name": "KFC - Popcorn Chicken",
+      "price": "Rs. 560"
+    },
+    {
+      "id": 16,
+      "name": "McDonald's - Filet-O-Fish",
+      "price": "Rs. 820"
+    },
+    {
+      "id": 17,
+      "name": "Domino's - Chicken Dominator",
+      "price": "Rs. 1450"
+    },
+    {
+      "id": 18,
+      "name": "Taco Bell - Nachos",
+      "price": "Rs. 400"
+    },
+    {
+      "id": 19,
+      "name": "Subway - Tuna Sandwich",
+      "price": "Rs. 740"
+    },
+    {
+      "id": 20,
+      "name": "Burger King - Chicken Fries",
+      "price": "Rs. 620"
+    }
+  ]
+}
